@@ -19,6 +19,7 @@
     # Custom config as vim functions
     bootstrap_before = "myspacevim#before"
     bootstrap_after = "myspacevim#after"
+    plugin_bundle_dir = "~/.local/var/cache/vimfiles/"
 
 
 
