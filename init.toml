@@ -88,3 +88,13 @@ name = 'tools'
 
 [[layers]]
 name = 'tmux'
+
+# Custom plugins
+[[custom_plugins]]
+name = 'tomlion/vim-solidity'
+
+[[custom_plugins]]
+name = 'ledger/vim-ledger'
+
+[[custom_plugins]]
+name = 'meatballs/vim-xonsh'
